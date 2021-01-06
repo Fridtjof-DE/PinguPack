@@ -1,0 +1,23 @@
+{
+   "pack":{
+      "pack_format":5,
+      "description":"§91.0 by @Fridtjof_DE#2605      §bAn essential resource pack"
+   },
+   "language": {
+      "de_sn": {
+         "name": "§dSüdniedersächsisch",
+         "region": "§dSüdniedersachsen",
+         "bidirectional": false
+      },
+      "de_de": {
+         "name": "Deutsch",
+         "region": "Deutschland",
+         "bidirectional": false
+      },
+      "en_us": {
+         "name": "English",
+         "region": "US",
+         "bidirectional": false
+      }
+   }
+}
